@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  ft_hangouts
+
+  Created by Mustafa YAĞIZ on 20.06.2025.
+  
+*/
+
+"Save" = "Save";
+"Edit" = "Edit";
+"Details" = "Details";
+"Actions" = "Actions";
+"Unnamed" = "Unnamed";
+"No Number" = "No Number";
+
+"Contacts" = "Contacts";
+"Blue" = "Blue";
+"Green" = "Green";
+"Red" = "Red";
+"Black" = "Black";
+"Last seen format" = "Last seen: %@";
+
+"New Contact" = "New Contact";
+"Contact Information" = "Contact Information";
+"First Name" = "First Name";
+"Last Name" = "Last Name";
+"Phone Number" = "Phone Number";
+"Email" = "Email";
+"Notes" = "Notes";
+
+"Edit Contact" = "Edit Contact";
+"Edit Contact Information" = "Edit Contact Information";
+"Save Changes" = "Save Changes";
+
+"First Name:" = "First Name:";
+"Last Name:" = "Last Name:";
+"Phone:" = "Phone:";
+"Email:" = "Email:";
+"Notes:" = "Notes:";
+"Conversation History" = "Conversation History";
+"Send Real SMS" = "Send Real SMS";
+
+"Message" = "Message";
+"Type your message..." = "Type your message...";
+"Did you say '%@'?" = "Did you say '%@'?";
